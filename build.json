@@ -1,20 +1,19 @@
 [
   {
     "ID": 2,
-    "timestamp": "2026-05-17T08:20:46.301Z",
-    "heroName": 22,
-    "isAwakened": false,
-    "isReincarnated": false,
-    "shareCode": "hQgJDEPZym8JC6ls3ilrZJkpDPP0rwC-2dZJ0A02aQpj",
-    "weapon": "",
-    "mount": "",
-    "book": "",
-    "treasure": "",
-    "token": "",
-    "hunyu": "44_2",
-    "rear": "",
-    "front": "",
-    "god": 27,
-    "provider": ""
+    "timestamp": "2026-05-17T08:36:20.884Z",
+    "hero": 75,
+    "isAwakened": 0,
+    "isReincarnated": 1,
+    "shareCode": "4SNNqRmTHTqcseXa5iODooDo8UCU85c-1LrdJ47U",
+    "weapon": "148_4",
+    "mount": "149_4",
+    "book": "150_4",
+    "treasure": "151_4",
+    "token": "152_4",
+    "hunyu": "153_3",
+    "god": 7,
+    "p": "29_4",
+    "provider": "京兆"
   }
 ]
