@@ -53,10 +53,10 @@
   {
     "ID": 3,
     "timestamp": "2026-05-18T10:41:38.058Z",
-    "hero": "",
+    "hero": 5,
     "isAwakened": 0,
     "isReincarnated": 0,
-    "shareCode": "1kHBvauVTNai56C3Xf0yywr3yhmeGxV0-1Xxkj6Yo",
+    "shareCode": "1kCHqsNxYPUpyYngyNnkrQOtK4aghdwS-1Xxkj6Yo",
     "weapon": "3_4",
     "mount": "126_3",
     "book": "72_4",
