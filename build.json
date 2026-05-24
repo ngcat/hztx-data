@@ -1,5 +1,22 @@
 [
   {
+    "ID": 13,
+    "timestamp": "2026-05-24T01:34:32.881Z",
+    "hero": 106,
+    "isAwakened": 1,
+    "isReincarnated": 1,
+    "shareCode": "7u84ZVyfKScEpeGSDwNLEplYiY5exkC-85PIZvPVf",
+    "weapon": "74_4",
+    "mount": "84_4",
+    "book": "122_4",
+    "treasure": "217_4",
+    "token": "133_4",
+    "hunyu": "144_4",
+    "god": 11,
+    "p": "124_4",
+    "provider": "最想要的司馬懿配裝"
+  },
+  {
     "ID": 12,
     "timestamp": "2026-05-23T01:38:52.450Z",
     "hero": 89,
