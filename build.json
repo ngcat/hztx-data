@@ -1,5 +1,22 @@
 [
   {
+    "ID": 20,
+    "timestamp": "2026-06-09T12:26:16.309Z",
+    "hero": 63,
+    "isAwakened": 1,
+    "isReincarnated": 1,
+    "shareCode": "1kDPXE9xSYglamdb7iJwb4wBMWg9b3Sa-77YWc",
+    "weapon": "32_4",
+    "mount": "36_4",
+    "book": "42_4",
+    "treasure": "37_4",
+    "token": "34_4",
+    "hunyu": "139_3",
+    "god": "",
+    "p": "",
+    "provider": "張春華(天罰套裝)"
+  },
+  {
     "ID": 19,
     "timestamp": "2026-05-31T14:19:25.084Z",
     "hero": 97,
