@@ -1,5 +1,22 @@
 [
   {
+    "ID": 21,
+    "timestamp": "2026-06-15T10:47:12.549Z",
+    "hero": 106,
+    "isAwakened": 1,
+    "isReincarnated": 1,
+    "shareCode": "1kEGSwyYiNtaFQ7RLMPFRwX8rAUuSQeu-77YWc",
+    "weapon": "186_4",
+    "mount": "13_4",
+    "book": "24_4",
+    "treasure": "218_4",
+    "token": "133_4",
+    "hunyu": "122_4",
+    "god": "",
+    "p": "119_3",
+    "provider": "差一點就可以輪迴了"
+  },
+  {
     "ID": 20,
     "timestamp": "2026-06-09T12:26:16.309Z",
     "hero": 63,
