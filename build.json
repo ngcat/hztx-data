@@ -1,5 +1,22 @@
 [
   {
+    "ID": 27,
+    "timestamp": "2026-07-18T12:49:04.982Z",
+    "hero": "",
+    "isAwakened": 0,
+    "isReincarnated": 0,
+    "shareCode": "1kHBwG6b7tcVdQGCiApdAsuKJIiejiT0-77YWc",
+    "weapon": "3_4",
+    "mount": "12_4",
+    "book": "47_4",
+    "treasure": "48_4",
+    "token": "49_4",
+    "hunyu": "",
+    "god": "",
+    "p": "",
+    "provider": "天行健"
+  },
+  {
     "ID": 26,
     "timestamp": "2026-07-17T12:58:40.938Z",
     "hero": 74,
