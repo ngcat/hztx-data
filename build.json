@@ -1,5 +1,22 @@
 [
   {
+    "ID": 28,
+    "timestamp": "2026-07-29T07:02:30.025Z",
+    "hero": 74,
+    "isAwakened": 0,
+    "isReincarnated": 0,
+    "shareCode": "bmyupz0ljzq217ciV9iNE66B5s6tHJo-85PDj2r9D",
+    "weapon": "165_4",
+    "mount": "70_4",
+    "book": "177_4",
+    "treasure": "48_4",
+    "token": "129_4",
+    "hunyu": "49_3",
+    "god": 17,
+    "p": "99_3",
+    "provider": "亂配的三娘"
+  },
+  {
     "ID": 27,
     "timestamp": "2026-07-18T12:49:04.982Z",
     "hero": "",
