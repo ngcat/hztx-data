@@ -1,5 +1,22 @@
 [
   {
+    "ID": 34,
+    "timestamp": "2026-08-04T03:29:49.389Z",
+    "hero": 74,
+    "isAwakened": 1,
+    "isReincarnated": 1,
+    "shareCode": "CA03wGNlOf6vfCic3lzG1WTKMki3XHA-77YWc",
+    "weapon": "115_4",
+    "mount": "116_4",
+    "book": "117_4",
+    "treasure": "118_4",
+    "token": "119_4",
+    "hunyu": "165_3",
+    "god": 59,
+    "p": "175_4",
+    "provider": "劉川楓八和預備用"
+  },
+  {
     "ID": 33,
     "timestamp": "2026-08-04T03:25:24.847Z",
     "hero": 103,
