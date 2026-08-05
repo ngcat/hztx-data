@@ -53,10 +53,10 @@
   {
     "ID": 36,
     "timestamp": "2026-08-04T03:55:43.780Z",
-    "hero": 75,
+    "hero": 84,
     "isAwakened": 1,
     "isReincarnated": 1,
-    "shareCode": "3ArPtMWr1Y8KWnbidYG8xsHSigIyXia-77YWc",
+    "shareCode": "3ACMgJviAL5sWruitTWTcXgmcnu11Dk-77YWc",
     "weapon": "221_4",
     "mount": "173_4",
     "book": "69_4",
@@ -65,7 +65,7 @@
     "hunyu": "125_4",
     "god": 5,
     "p": "145_1",
-    "provider": "劉川楓八和預備用"
+    "provider": "劉川楓"
   },
   {
     "ID": 35,
@@ -107,7 +107,7 @@
     "hero": 103,
     "isAwakened": 1,
     "isReincarnated": 1,
-    "shareCode": "uah4swlxZOXohEDdfBszogdk1KEjSXE-77YWc",
+    "shareCode": "uah3T8r8pvODSFW00dMVqM6US7ec0HE-77YWc",
     "weapon": "198_4",
     "mount": "65_4",
     "book": "178_4",
@@ -116,7 +116,7 @@
     "hunyu": "176_3",
     "god": 46,
     "p": "39_4",
-    "provider": "劉川楓八和預備用"
+    "provider": "劉川楓"
   },
   {
     "ID": 32,
