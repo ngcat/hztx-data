@@ -1,5 +1,22 @@
 [
   {
+    "ID": 43,
+    "timestamp": "2026-08-16T08:36:01.698Z",
+    "hero": 74,
+    "isAwakened": 1,
+    "isReincarnated": 0,
+    "shareCode": "1kE3lC0PMCYmEvGQw3TBe6LxbcOQOTzs-77YWc",
+    "weapon": "75_4",
+    "mount": "70_4",
+    "book": "220_4",
+    "treasure": "73_4",
+    "token": "54_4",
+    "hunyu": "51_3",
+    "god": "",
+    "p": "",
+    "provider": "暗影"
+  },
+  {
     "ID": 42,
     "timestamp": "2026-08-14T00:15:50.032Z",
     "hero": "",
@@ -70,19 +87,19 @@
   {
     "ID": 38,
     "timestamp": "2026-08-04T14:20:26.355Z",
-    "hero": 5,
+    "hero": 69,
     "isAwakened": 1,
     "isReincarnated": 0,
-    "shareCode": "1kCHqqw0lbzaZYLlMLgCuhrlEfva5lKy-77YWc",
-    "weapon": "33_4",
-    "mount": "78_4",
-    "book": "47_4",
-    "treasure": "48_4",
-    "token": "49_4",
-    "hunyu": "81_3",
+    "shareCode": "1kDXSoFzATuUy6vMBK2TGyhu8OQQRmhA-77YWc",
+    "weapon": "83_4",
+    "mount": "84_4",
+    "book": "85_4",
+    "treasure": "86_4",
+    "token": "87_4",
+    "hunyu": "141_3",
     "god": "",
     "p": "",
-    "provider": "暗影"
+    "provider": 2011552289
   },
   {
     "ID": 37,
