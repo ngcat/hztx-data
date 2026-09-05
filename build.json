@@ -1,5 +1,22 @@
 [
   {
+    "ID": 48,
+    "timestamp": "2026-09-05T05:42:11.569Z",
+    "hero": 113,
+    "isAwakened": 1,
+    "isReincarnated": 1,
+    "shareCode": "fgotlz4nC1Zi924gIrb0hFgPf8ysEvM-77YWc",
+    "weapon": "106_4",
+    "mount": "107_4",
+    "book": "47_4",
+    "treasure": "48_4",
+    "token": "49_4",
+    "hunyu": "11_3",
+    "god": 23,
+    "p": "34_4",
+    "provider": "神算.奇謀"
+  },
+  {
     "ID": 47,
     "timestamp": "2026-08-19T05:33:37.406Z",
     "hero": 69,
