@@ -1,5 +1,22 @@
 [
   {
+    "ID": 56,
+    "timestamp": "2026-11-08T03:58:24.027Z",
+    "hero": 75,
+    "isAwakened": 1,
+    "isReincarnated": 0,
+    "shareCode": "1kE4zdKOB6v66LNJhIrQCIy5Q84VMEnw-77YWc",
+    "weapon": "115_4",
+    "mount": "65_4",
+    "book": "66_4",
+    "treasure": "64_4",
+    "token": "39_4",
+    "hunyu": "116_3",
+    "god": "",
+    "p": "",
+    "provider": "五和前平民版賈詡"
+  },
+  {
     "ID": 55,
     "timestamp": "2026-10-20T08:09:37.985Z",
     "hero": 12,
